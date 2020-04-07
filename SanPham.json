@@ -1,0 +1,6 @@
+{"_id":{"$numberInt":"2"},"TenSP":"Ipad Pro","Gia":{"$numberInt":"666"}}
+{"_id":{"$numberInt":"3"},"TenSP":"Macbook","MauSac":"Bac"}
+{"_id":{"$oid":"5e7c7eb4ed803c0b8cd11aad"},"TenSP":"Macbook pro","Color":"Sliver","Price":{"$numberInt":"2000"}}
+{"_id":{"$oid":"5e7c7f01ed803c0b8cd11aae"},"TenSP":"Macbook pro 2019","Color":"Sliver","Price":{"$numberInt":"2000"}}
+{"_id":{"$oid":"5e7c7f01ed803c0b8cd11aaf"},"TenSP":"Macbook pro 2020","Color":"Black","Price":{"$numberInt":"2200"}}
+{"_id":{"$numberInt":"101"},"TenSP":"Macbook 2020","MauSac":"Bac sliver"}
